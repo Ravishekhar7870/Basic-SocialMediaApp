@@ -1,0 +1,38 @@
+.appcontainer{
+  display: flex;
+}
+.container{
+   width: 100%;
+   height:100%
+}
+.sidebar{
+  min-height: 700px;
+}
+.post_card{
+  width: 18rem;
+  margin: 20px 40px;
+}
+.badge_item{
+  margin:3px;
+}
+.reaction{
+  max-width: 100px;
+}
+.create-post{
+   width: 80%;
+   margin-top: 50px;
+   margin-left: 10%;
+}
+.welcome-message{
+   margin: 40px;
+   padding: 10px;
+   display: flex;
+   flex-direction: column;
+   gap: 15px;
+   justify-content: center;
+   align-items: center;
+}
+.post-button{
+  max-width: 100px;
+  height: 45px;
+}
